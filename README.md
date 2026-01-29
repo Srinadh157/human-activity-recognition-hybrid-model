@@ -28,15 +28,14 @@ The goal is to accurately classify human activities from time-series inertial se
 
 🧠 Model Architecture
 
-The proposed hybrid architecture consists of:
+The proposed hybrid deep learning architecture integrates multiple modeling paradigms to effectively capture spatial, temporal, and contextual dependencies in wearable sensor data:
 
-CNN layers for local feature extraction
+- Convolutional Neural Networks (CNNs) for local feature extraction from segmented time-series windows  
+- Bidirectional LSTM and GRU layers for modeling short- and long-term temporal dependencies  
+- Transformer Encoder layers to capture global context through attention mechanisms  
 
-BiLSTM and GRU layers for sequential and temporal modeling
+This hybrid design enables improved representation learning compared to traditional CNN–LSTM baselines by combining recurrent dynamics with attention-based global reasoning.
 
-Transformer Encoder for attention-based global context learning
-
-This combination outperforms traditional CNN–LSTM baselines by leveraging both recurrent and attention mechanisms.
 
 📊 Results
 
