@@ -101,6 +101,12 @@ Sliding-window segmentation and feature normalization
 Comparative evaluation against baseline models
 
 Focus on robustness and real-world applicability
+## Limitations
+
+- The model was evaluated on a limited number of subjects and activities.
+- Performance may vary under different sensor configurations or sampling rates.
+- Real-time deployment constraints were not evaluated in this study.
+
 
 📚 Context
 
