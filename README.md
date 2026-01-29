@@ -39,13 +39,11 @@ This hybrid design enables improved representation learning compared to traditio
 
 📊 Results
 
-Accuracy: 98.56%
+- Accuracy: **98.56%**  
+- F1-Score: **95.94%**  
 
-F1-Score: 95.94%
+The model demonstrates strong generalization across subjects and improved robustness due to effective sensor fusion and the hybrid architectural design.
 
-Demonstrated strong generalization across subjects
-
-Improved robustness through sensor fusion and architectural design
 
 📁 Repository Structure
 human-activity-recognition-hybrid-model/
