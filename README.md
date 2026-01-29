@@ -1,3 +1,4 @@
+
 # Human Activity Recognition using a Hybrid Deep Learning Model
 
 This project focuses on Human Activity Recognition (HAR) using wearable inertial sensor data and a hybrid deep learning architecture. The goal is to accurately classify human activities by combining convolutional, recurrent, and attention-based models to capture both spatial and temporal patterns in multivariate sensor signals.
@@ -125,3 +126,4 @@ All experiments were conducted in a Linux-based environment using fixed random s
 Srinadh Alugu
 AI / ML Engineer
 srinadhalugu@gmail.com
+
