@@ -107,6 +107,10 @@ Focus on robustness and real-world applicability
 - Performance may vary under different sensor configurations or sampling rates.
 - Real-time deployment constraints were not evaluated in this study.
 
+## Future Work
+
+Future extensions of this work may include real-time deployment on edge devices, evaluation on larger multi-modal datasets, and integration with self-supervised or foundation models for improved generalization.
+
 
 📚 Context
 
