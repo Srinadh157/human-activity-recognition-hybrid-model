@@ -4,6 +4,14 @@ This project focuses on Human Activity Recognition (HAR) using wearable inertial
 
 The work was carried out as part of an academic research project at the University of Siegen, with an emphasis on building reproducible machine learning pipelines and evaluating model robustness on real-world sensor data.
 
+
+## Dataset
+
+The dataset consists of multivariate inertial sensor signals collected from wearable devices. Each sample includes time-series measurements from accelerometer and gyroscope sensors recorded across multiple subjects performing daily activities.
+
+The raw sensor data is segmented using a sliding window approach and processed to extract meaningful temporal patterns for model training and evaluation. This setup reflects realistic conditions encountered in wearable sensing and activity recognition tasks.
+
+
 🔍 Problem Overview
 
 Human Activity Recognition from wearable sensors is a key problem in:
