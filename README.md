@@ -106,6 +106,9 @@ Focus on robustness and real-world applicability
 
 This project was developed as part of academic research and reflects applied machine learning and deep learning practices relevant to AI Engineer, ML Engineer, and Research Assistant roles.
 
+## Reproducibility Notes
+
+All experiments were conducted in a Linux-based environment using fixed random seeds to ensure reproducibility. Model training, evaluation, and visualization steps are fully documented within the provided Jupyter notebook.
 
 📬 Contact
 
