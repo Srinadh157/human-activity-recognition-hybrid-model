@@ -1,9 +1,8 @@
-Human Activity Recognition using Hybrid Deep Learning Models
+# Human Activity Recognition using a Hybrid Deep Learning Model
 
-This project implements a hybrid deep learning architecture for Human Activity Recognition (HAR) using wearable sensor data.
-The model combines CNN, BiLSTM, GRU, and Transformer Encoder components to capture both local patterns and long-range temporal dependencies in multivariate IMU signals.
+This project focuses on Human Activity Recognition (HAR) using wearable inertial sensor data and a hybrid deep learning architecture. The goal is to accurately classify human activities by combining convolutional, recurrent, and attention-based models to capture both spatial and temporal patterns in multivariate sensor signals.
 
-The work was carried out as part of an academic research project at University of Siegen, Germany.
+The work was carried out as part of an academic research project at the University of Siegen, with an emphasis on building reproducible machine learning pipelines and evaluating model robustness on real-world sensor data.
 
 🔍 Problem Overview
 
