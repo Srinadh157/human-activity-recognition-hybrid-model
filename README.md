@@ -121,6 +121,47 @@ This project was developed as part of academic research and reflects applied mac
 
 All experiments were conducted in a Linux-based environment using fixed random seeds to ensure reproducibility. Model training, evaluation, and visualization steps are fully documented within the provided Jupyter notebook.
 
+## Installation & Setup
+
+### 1. Clone the Repository
+
+git clone https://github.com/Srinadh157/human-activity-recognition-hybrid-model.git
+cd human-activity-recognition-hybrid-model
+
+2. Create a Virtual Environment
+   python -m venv venv
+
+3. Install Dependencies
+   pip install -r requirements.txt
+
+4. Open the notebook from the notebooks/ directory
+5. Run all cells sequentially to:
+
+-Load the dataset
+
+-Train the hybrid CNN–BiLSTM–GRU–Transformer model
+
+-Evaluate performance metrics
+
+### 🔹 Hardware Requirements
+
+
+## Hardware Requirements
+
+- **CPU**: Supported (training will be slower)
+- **GPU**: Recommended (NVIDIA CUDA-enabled)
+- **RAM**: Minimum 8GB recommended
+
+## Project Structure
+
+human-activity-recognition-hybrid-model/
+│
+├── Data/ # Sensor datasets
+├── notebooks/ # Model implementation
+├── results/ # Evaluation results
+├── requirements.txt # Python dependencies
+├── README.md # Documentation
+
 📬 Contact
 
 Srinadh Alugu
